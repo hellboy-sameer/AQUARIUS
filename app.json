@@ -1,6 +1,7 @@
+
 {
   "name": "SAVAGE BOT",
-  "description": "The best userbot made by @sameer_795. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @savage_support.",
+  "description": "The best userbot made by @sameer_795. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @savage_support ",
   "logo": "https://telegra.ph/file/23a5fa94ea1ab3fae7be5.jpg",
     "keywords": [
     "telegram",
@@ -9,7 +10,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sameerpanthi/SAVAGE",
+  "repository": "https://github.com/sameerpanthi/SAVAGE/",
   "website": "https://github.com/sameerpanthi/SAVAGE/",
   "success_url": "https://t.me/teamishere",
   "env": {
@@ -50,7 +51,7 @@
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
       "value": "https://telegra.ph/file/60c16f8f827b8e0929d3d.mp4",
-      "required": false
+      "required": true
     },
     "CUSTOM_PMPERMIT": {
       "description": "Your custom pm permit msg.",
