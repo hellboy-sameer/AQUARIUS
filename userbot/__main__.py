@@ -52,7 +52,7 @@ for name in files:
 
 import userbot._core
 
-print("➠ The most Powerful LegendBOT is on fire 🔥. Check .alive to test that bot is functioning or not . Join http://t.me/teamishere for any assistance 👀")
+print("➠ ABE HO GAYA ON 🎉🎉 ...ab jaake .alive likho or sbko btao 💝💝.....for support join - @savage_support👀")
 
 
 if LOAD_ASSISTANT == True:
