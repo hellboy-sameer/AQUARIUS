@@ -1,4 +1,3 @@
-
 {
   "name": "SAVAGE BOT",
   "description": "The best userbot made by @sameer_795. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @savage_support ",
@@ -10,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sameerpanthi/SAVAGE/",
-  "website": "https://github.com/sameerpanthi/SAVAGE/",
+  "repository": "https://github.com/sameerpanthi/SAVAGE",
+  "website": "https://github.com/sameerpanthi/SAVAGE",
   "success_url": "https://t.me/teamishere",
   "env": {
     "ENV": {
