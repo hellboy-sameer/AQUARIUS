@@ -6,7 +6,7 @@ from telethon.tl.types import ChannelParticipantsAdmins
 
 # uptime = get_readable_time((time.time() - Lastupdate))
 
-PM_IMG = Config.ALIVE_PIC
+PM_IMG = "https://telegra.ph/file/60c16f8f827b8e0929d3d.mp4"
 pm_caption = "__             **🔥 らΛƔΛƓƐ 🔥**  __\n\n"
 
 pm_caption += f"               __↼🄼🄰🅂🅃🄴🅁⇀__\n**『[{DEFAULTUSER}](tg://user?id={kraken})』**\n\n"
