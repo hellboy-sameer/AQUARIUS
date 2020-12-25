@@ -1,7 +1,7 @@
 {
-  "name": "LEGEND BOT",
-  "description": "The best userbot made by @LEGENDX22. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @teamishere ",
-  "logo": "https://telegra.ph/file/a44f1363bddbba84a2b98.jpg",
+  "name": "SAVAGE BOT",
+  "description": "The best userbot made by @sameer_795. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @savage_support ",
+  "logo": "https://telegra.ph/file/23a5fa94ea1ab3fae7be5.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/legendx22/LEGEND-BOT/",
-  "website": "https://github.com/legendx22/LEGEND-BOT/",
-  "success_url": "https://t.me/teamishere",
+  "repository": "https://github.com/sameerpanthi/SAVAGE/",
+  "website": "https://github.com/sameerpanthi/SAVAGE/",
+  "success_url": "https://t.me/savage_support",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -28,9 +28,9 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @LEGENDX22.",
+      "description": "Fill your Full name or Username like @sameer_795.",
       "value": "",
-      "required": false
+      "required": TRUE
     },
     "ALIVE_MSG": {
       "description": "Set Custom awake Message When entering .awake command.",
@@ -49,8 +49,8 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "",
-      "required": true
+      "value": "https://telegra.ph/file/60c16f8f827b8e0929d3d.mp4",
+      "required": false
     },
     "CUSTOM_PMPERMIT": {
       "description": "Your custom pm permit msg.",
@@ -164,7 +164,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "😎",
       "required": true
     }, 
     "TZ": {
