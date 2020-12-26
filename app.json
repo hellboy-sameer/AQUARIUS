@@ -1,5 +1,5 @@
 {
-  "name": "SAVAGE BOT",
+  "name": "丂卂ᐯ卂Ꮆ乇",
   "description": "The best userbot made by @SAMEER_795. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Support Join @SAVAGE_SUPPORT ",
   "logo": "https://telegra.ph/file/23a5fa94ea1ab3fae7be5.jpg",
     "keywords": [
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @LEGENDX22.",
+      "description": "Fill your Full name or Username like @SAMEER_795.",
       "value": "",
       "required": false
     },
@@ -49,7 +49,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/60c16f8f827b8e0929d3d.mp4",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -102,7 +102,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://Hellbot.hellboyop.repl.run/ ",
+      "description": "Get this value by running code on termux for code join - @savage_support",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
@@ -111,7 +111,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: HellBoy-OP/HellBot , but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: sameerpanthi/SAVAGE , but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
@@ -126,7 +126,7 @@
       "required": true
     },
     "TG_BOT_TOKEN_BF_HER": {
-      "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
+      "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings.",
       "value": ""
     },
     "CHROME_BIN": {
@@ -164,7 +164,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "😎",
       "required": true
     }, 
     "TZ": {
