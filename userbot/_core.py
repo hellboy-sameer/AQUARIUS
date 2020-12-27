@@ -9,8 +9,8 @@ from userbot.utils import admin_cmd, load_module, remove_plugin, sudo_cmd
 from userbot.utils import edit_or_reply as eor
 
 DELETE_TIMEOUT = 5
-thumb_image_path = "./Resources/https://telegra.ph/file/1e9b56b619c74a06341a0.jpg"
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "丂卂ᐯ卂Ꮆ乇 BOT"
+thumb_image_path = "./Resources/photo5134205503822473523.jpg"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "SAVAGE BOT"
 
 
 @bot.on(admin_cmd(pattern=r"send (?P<shortname>\w+)", outgoing=True))
@@ -89,7 +89,7 @@ async def unload(event):
     shortname = event.pattern_match["shortname"]
     try:
         remove_plugin(shortname)
-        qwe = await eor(event, f"丂卂ᐯ卂Ꮆ乇 BOT Has Successfully unloaded {shortname}")
+        qwe = await eor(event, f"SAVAGE BOT Has Successfully unloaded {shortname}")
     except Exception as e:
         await qwe.edit(
             "丂卂ᐯ卂Ꮆ乇 BOT has Successfully unloaded {shortname}\n{}".format(shortname, str(e))
