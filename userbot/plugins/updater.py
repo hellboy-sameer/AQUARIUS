@@ -1,4 +1,4 @@
-#code by @sameer_795 , If you will change the credits you are the biggest mutherfucked 
+#code by @legendx22 , If you will change the credits you are the biggest mutherfucked 
 """Update UserBot code
 Syntax: .update"""
 
@@ -16,7 +16,7 @@ IS_SELECTED_DIFFERENT_BRANCH = (
     "in this case, Updater is unable to identify the branch to be updated."
     "please check out to an official branch, and re-start the updater."
 )
-OFFICIAL_UPSTREAM_REPO = "https://github.com/legendx22/LEGEND-BOT"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/sameerpanthi/SAVAGE"
 BOT_IS_UP_TO_DATE = "❂savage BOT is up-to-date!❂"
 NEW_BOT_UP_DATE_FOUND = (
     "**SAVAGE BOT  Update Found For** {branch_name}\n"
