@@ -10,7 +10,7 @@ from userbot.utils import edit_or_reply as eor
 
 DELETE_TIMEOUT = 5
 thumb_image_path = "./Resources/IMG_20201211_144821_071.jpg"
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "LEGEND BOT"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "丂卂ᐯ卂Ꮆ乇 BOT"
 
 
 @bot.on(admin_cmd(pattern=r"send (?P<shortname>\w+)", outgoing=True))
@@ -89,10 +89,10 @@ async def unload(event):
     shortname = event.pattern_match["shortname"]
     try:
         remove_plugin(shortname)
-        qwe = await eor(event, f"LEGEND BOT Has Successfully unloaded {shortname}")
+        qwe = await eor(event, f"丂卂ᐯ卂Ꮆ乇 BOT Has Successfully unloaded {shortname}")
     except Exception as e:
         await qwe.edit(
-            "LEGEND BOT has Successfully unloaded {shortname}\n{}".format(shortname, str(e))
+            "丂卂ᐯ卂Ꮆ乇 BOT has Successfully unloaded {shortname}\n{}".format(shortname, str(e))
         )
 
 
@@ -111,5 +111,5 @@ async def load(event):
         qwe = await eor(event, f"Successfully loaded {shortname}")
     except Exception as e:
         await qwe.edit(
-            f"DarkCobra could not load {shortname} because of the following error.\n{str(e)}"
+            f"丂卂ᐯ卂Ꮆ乇 could not load {shortname} because of the following error.\n{str(e)}"
         )
