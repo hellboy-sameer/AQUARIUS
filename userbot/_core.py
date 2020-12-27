@@ -9,7 +9,7 @@ from userbot.utils import admin_cmd, load_module, remove_plugin, sudo_cmd
 from userbot.utils import edit_or_reply as eor
 
 DELETE_TIMEOUT = 5
-thumb_image_path = "./Resources/IMG_20201211_144821_071.jpg"
+thumb_image_path = "./Resources/https://telegra.ph/file/1e9b56b619c74a06341a0.jpg"
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "丂卂ᐯ卂Ꮆ乇 BOT"
 
 
