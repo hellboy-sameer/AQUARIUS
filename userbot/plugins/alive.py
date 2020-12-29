@@ -1,4 +1,4 @@
-# modify by @sameer-795
+# modify by @sameer_795
 # Kang with credits else gay.
 """ 
 Original Plugin By Darkcobra and Godhackerzuserbot
