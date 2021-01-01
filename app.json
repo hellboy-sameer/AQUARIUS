@@ -37,11 +37,6 @@
       "value": "",
       "required": false
     },
-    "ALIVE_PHOTTO": {
-      "description": "put here any telegraph media link use .awake to show.",
-      "value": "",
-      "required": false
-    },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
       "value": "",
