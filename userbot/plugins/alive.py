@@ -18,7 +18,7 @@ from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 # 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "LEGEND SAR"
-pm_caption = Config.ALIVE_PIC
+pm_caption = Config.ALIVE_PHOTTO
 global ghanti
 ghanti = borg.uid
 
