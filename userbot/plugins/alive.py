@@ -18,13 +18,11 @@ from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 # 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "LEGEND SAR"
-ALIVE_PHOTTO = os.environ.get("ALIVE_PHOTTO" , None)
-
+pm_caption = Config.ALIVE_PIC
 global ghanti
 ghanti = borg.uid
 
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/60c16f8f827b8e0929d3d.mp4"
 """ =======================CONSTANTS====================== """
 pm_caption = "__                   **🔥 丂卂ᐯ卂Ꮆ乇  🔥**  __\n\n"
 
@@ -48,4 +46,4 @@ async def amireallyalive(yes):
     global ghanti
     ghanti = borg.uid
 ##
-    on = await borg.send_file(yes.chat_id, file=file1,caption=pm_caption)
+    on = await borg.send_file(yes.chat_id,caption=pm_caption)
