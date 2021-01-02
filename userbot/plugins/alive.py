@@ -18,7 +18,7 @@ from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 # 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "LEGEND SAR"
-pm_caption = Config.ALIVE_PHOTTO
+file = Config.ALIVE_PHOTTO
 global ghanti
 ghanti = borg.uid
 
@@ -46,4 +46,4 @@ async def amireallyalive(yes):
     global ghanti
     ghanti = borg.uid
 ##
-    on = await borg.send_file(yes.chat_id,caption=pm_caption)
+    on = await borg.send_file(yes.chat_id, file ,caption=pm_caption)
