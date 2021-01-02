@@ -6,7 +6,7 @@ from uniborg.util import admin_cmd
 
 
 @borg.on(admin_cmd("helllo"))
-async def (event):
+async def_ (event):
     if event.fwd_from:
         return
     mentions = "⁭
