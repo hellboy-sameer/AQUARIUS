@@ -12,7 +12,6 @@ SAVAGE
   <img src="https://img.shields.io/github/license/adi1090x/termux-desktop?style=for-the-badge">
   <img src="https://img.shields.io/github/repo-size/hellboy-sameer/SAVAGE?style=for-the-badge">
   <img src="https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/BADASS_BOI)?style=for-the-badge">
-
   <img src="https://img.shields.io/github/forks/adi1090x/termux-desktop?color=teal&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/adi1090x/termux-desktop?style=for-the-badge">
 </p>
