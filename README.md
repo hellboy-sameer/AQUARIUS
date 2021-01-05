@@ -11,7 +11,7 @@ SAVAGE
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Hellboy-sameer/SAVAGE?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/hellboy-sameer/SAVAGE?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/Hellboy-sameer/SVAAGE?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Hellboy-sameer/SAVAGE?style=for-the-badge">
   <img src="https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/Hellboy-sameer/SAVAGE?utm_source=github.com&utm_medium=referral&utm_content=hellboy-sameer/SAVAGE&utm_campaign=Badge_Grade_Settings)
 </p>
 
