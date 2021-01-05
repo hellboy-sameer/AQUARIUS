@@ -9,16 +9,13 @@ SAVAGE
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/adi1090x/termux-desktop?style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/hellboy-sameer/SAVAGE?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Telegram-Contact%20Me-informational(https://t.me/BADASS_BOI)?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/adi1090x/termux-desktop?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/adi1090x/termux-desktop?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Hellboy-sameer/SAVAGE?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/hellboy-sameer/SAVAGE?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Hellboy-sameer/SVAAGE?style=for-the-badge">
+  <img src="https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/Hellboy-sameer/SAVAGE?utm_source=github.com&utm_medium=referral&utm_content=hellboy-sameer/SAVAGE&utm_campaign=Badge_Grade_Settings)
 </p>
 
 -------------------------------------------------
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/Hellboy-sameer/SAVAGE?utm_source=github.com&utm_medium=referral&utm_content=hellboy-sameer/SAVAGE&utm_campaign=Badge_Grade_Settings)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/hellboy-sameer/SAVAGE)
 [![HitCount](http://hits.dwyl.com/hellboy-sameer/SAVAGE.svg)](http://hits.dwyl.com/hellboy-sameer/SAVAGE)
