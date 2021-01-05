@@ -8,11 +8,11 @@ SAVAGE
 
 -------------------------------------------------
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/sameerpanthi/SAVAGE-2.0?utm_source=github.com&utm_medium=referral&utm_content=sameerpanthi/SAVAGE-2.0&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/Hellboy-sameer/SAVAGE?utm_source=github.com&utm_medium=referral&utm_content=hellboy-sameer/SAVAGE&utm_campaign=Badge_Grade_Settings)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/sameerpanthi/SAVAGE-2.0)
-[![HitCount](http://hits.dwyl.com/sameerpanthi/SAVAGE-2.0.svg)](http://hits.dwyl.com/sameerpanthi/SAVAGE-20)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/sameer_795)
+![GitHub repo size](https://img.shields.io/github/repo-size/hellboy-sameer/SAVAGE)
+[![HitCount](http://hits.dwyl.com/hellboy-sameer/SAVAGE.svg)](http://hits.dwyl.com/hellboy-sameer/SAVAGE)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/BADASS_BOI)
 
 -------------------------------------------------
 
@@ -27,21 +27,20 @@ SAVAGE
 
 -------------------------------------------------
 
-匚尺乇卂ㄒㄖ尺 : [丂卂爪乇乇尺](https://t.me/SAMEER_795)
+匚尺乇卂ㄒㄖ尺 : [丂卂爪乇乇尺](https://t.me/badass_boi)
 
 -------------------------------------------------
 
 ## Join our Support Channel and Group regrading bug fixes
 
-<a href="@Savage_suppot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="@friends795"><img src="https://img.shields.io/badge/Join-SOCIAL%20GROUP-red.svg?logo=Telegram"></a>
-<a href="@pagal795"><img src="https://img.shields.io/badge/Join-SOCIAL%20GROUP-red.svg?logo=Telegram"></a>
+<a href="@@ANONYMOUS_795"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="@BEST_FRIENDZ_FOREVER"><img src="https://img.shields.io/badge/Join-SOCIAL%20GROUP-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
 ## FOR DEPLOY BOT 
 
-[![DEPLOY TO HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/SAVAGE)
+[![DEPLOY TO HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hellboy-sameer/SAVAGE)
 
 ------------------------------------------------
 
