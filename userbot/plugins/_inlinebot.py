@@ -25,7 +25,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
                 buttons = paginate_help(current_page_number, CMD_LIST, "helpme")
                 await event.edit("📜Userbot Helper to reveal all the commands📜\n\n🔥This is main menu....🔥", buttons=buttons)
             else:
-                reply_pop_up_alert = "Kya daba rha h ... Jake apna khudka bot bna mera use naa kar....😏 @savage_support"
+                reply_pop_up_alert = "Kya daba rha h ... Jake apna khudka bot bna mera use naa kar....😏 @TEAM_AQUARIUS"
                 await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
 
     @tgbot.on(events.callbackquery.CallbackQuery(data=re.compile(b"open")))
@@ -36,7 +36,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
                 buttons = paginate_help(current_page_number, CMD_LIST, "helpme")
                 await event.edit("📜Userbot Helper to reveal all the commands📜\n\n🔥You opened the menu again🔥", buttons=buttons)
             else:
-                reply_pop_up_alert = "Kya daba rha h .. Jake apna khudka bot bna mera use naa kar....😏 @savage_support"
+                reply_pop_up_alert = "Kya daba rha h .. Jake apna khudka bot bna mera use naa kar....😏 @TEAM_AQUARIUS"
                 await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
                #https://t.me/pldhsys/372
 
@@ -51,7 +51,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
             result = builder.article("© Userbot Help",text="{}\nCurrently Loaded Plugins: {}".format(query, len(CMD_LIST)),buttons=buttons,link_preview=False)
             await event.answer([result] if result else None)
         else:
-              reply_pop_up_alert = "Kya daba rha h ... Jake apna khudka bot bna mera use naa kar....😏 @savage_support"
+              reply_pop_up_alert = "Kya daba rha h ... Jake apna khudka bot bna mera use naa kar....😏 @TEAM_AQUARIUS"
               await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
     @tgbot.on(events.callbackquery.CallbackQuery(  # pylint:disable=E0602
         data=re.compile(b"helpme_next\((.+?)\)")
@@ -66,7 +66,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
             # https://t.me/TelethonChat/115200
             await event.edit(buttons=buttons)
         else:
-            reply_pop_up_alert = "Kya daba rha h ... Jake apna khudka bot bna mera use naa kar....😏 @savage_support"
+            reply_pop_up_alert = "Kya daba rha h ... Jake apna khudka bot bna mera use naa kar....😏 @TEAM_AQUARIUS"
             await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
 
 
@@ -85,8 +85,8 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
             )
             # https://t.me/TelethonChat/115200
             await event.edit(buttons=buttons)
-        else:
-            reply_pop_up_alert = "Kya daba rha h ... Jake apna khudka bot bna mera use naa kar....😏 @savage_support"
+        else
+            reply_pop_up_alert = "Kya daba rha h ... Jake apna khudka bot bna mera use naa kar....😏 @TEAM_AQUARIUS"
             await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
 
     @tgbot.on(events.callbackquery.CallbackQuery(data=re.compile(b"close")))
@@ -121,7 +121,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
                 hellbot = custom.Button.inline("⚜️ Back To Menu ⚜️", data="back")
                 await event.edit(reply_pop_up_alert, buttons=hellbot)
             else:
-                reply_pop_up_alert = "Kya daba rha h... Jake apna khudka bot bna mera use naa kar.... @savage_support"
+                reply_pop_up_alert = "Kya daba rha h... Jake apna khudka bot bna mera use naa kar.... @TEAM_AQUARIUS"
                 await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
         except: 
             kraken = "Do .help {} to get the list of commands.".format(plugin_name)
