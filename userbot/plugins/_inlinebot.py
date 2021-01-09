@@ -92,8 +92,8 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
     @tgbot.on(events.callbackquery.CallbackQuery(data=re.compile(b"close")))
     async def on_plug_in_callback_query_handler(event):
         if event.query.user_id == bot.uid:
-            hellbot = custom.Button.inline("🔹 Open Again 🔸", data="open")
-            await event.edit("🚨 Closed Userbot Helper Main menu 🚨", buttons=hellbot)
+            hellbot = custom.Button.inline("🔹 OPEN AGAIN 🔸", data="open")
+            await event.edit("🚨 Closed Userbot Helper Main menu 🚨", buttons=Aquarius)
             
   #https://t.me/pldhsys/372
 
@@ -114,12 +114,12 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
         else:
             reply_pop_up_alert = help_string
         reply_pop_up_alert += "\n Use .unload {} to remove this plugin\n\
-            © 丂卂ᐯ卂Ꮆ乇".format(plugin_name)
+            © AQUARIUS".format(plugin_name)
         try:
             #hellbot = [[Button.inline('Go back', 'back')]] 
             if event.query.user_id == bot.uid :
                 hellbot = custom.Button.inline("⚜️ Back To Menu ⚜️", data="back")
-                await event.edit(reply_pop_up_alert, buttons=hellbot)
+                await event.edit(reply_pop_up_alert, buttons=aquarius)
             else:
                 reply_pop_up_alert = "Kya daba rha h... Jake apna khudka bot bna mera use naa kar.... @TEAM_AQUARIUS"
                 await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
@@ -149,7 +149,7 @@ def paginate_help(page_number, loaded_plugins, prefix):
         pairs = pairs[modulo_page * number_of_rows:number_of_rows * (modulo_page + 1)] + \
             [
             (custom.Button.inline("• 👈 •", data="{}_prev({})".format(prefix, modulo_page)),
-             custom.Button.inline("• 🙏 •", data="close"),
+             custom.Button.inline("• 😗 •", data="close"),
              custom.Button.inline("• 👉 •", data="{}_next({})".format(prefix, modulo_page)))
         ]
     return pairs
