@@ -45,7 +45,7 @@ SAVAGE
 
 ## FOR DEPLOY BOT 
 
-[![DEPLOY TO HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hellboy-sameer/SAVAGE)
+[![DEPLOY TO HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hellboy-sameer/AQUARIUS)
 
 ------------------------------------------------
 
